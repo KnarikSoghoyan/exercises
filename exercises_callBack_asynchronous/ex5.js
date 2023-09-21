@@ -11,7 +11,7 @@ fs.readFile('num1.json', 'utf8', (err, num1) => {
 
                 fs.readFile('num3.json', 'utf8', (err, num3) => {
                     if (!err) {
-                        console.log( (+num1) + (+num2) + (+num3) );
+                        console.log((+num1) + (+num2) + (+num3));
                     }
                 });
             }
