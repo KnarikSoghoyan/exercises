@@ -1,12 +1,12 @@
 // Sync
 
-function processLargeDataset(data) {
-    return `Processed ${data.length} records`;
-  }
+// function processLargeDataset(data) {
+//     return `Processed ${data.length} records`;
+//   }
   
-  const data = [...Array(1000000).keys()]; 
-  const result = processLargeDataset(data);
-  console.log(result);
+//   const data = [...Array(1000000).keys()]; 
+//   const result = processLargeDataset(data);
+//   console.log(result);
 
   
   // Async
