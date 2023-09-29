@@ -11,4 +11,3 @@ while (number < 10) {
         };
     });
 }
-ad
