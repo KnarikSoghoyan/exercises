@@ -4,7 +4,7 @@
 
 let promise = new Promise(function(resolve, reject) {
 	setTimeout(function() {
-		let array = [1,2,3,4,5];
+		const array = [1,2,3,4,5];
 		
 		if (array.includes(8)) {
 			resolve('success');
