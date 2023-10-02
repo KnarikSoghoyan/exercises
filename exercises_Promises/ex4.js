@@ -13,6 +13,7 @@ let promise = new Promise(function(resolve, reject) {
 		}
 	}, 3000);
 });
+promise.catch(err => err);
 
 setInterval(function() {
 	console.log(promise); 
