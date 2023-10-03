@@ -6,13 +6,14 @@ let promise = new Promise(function(resolve, reject) {
 	setTimeout(function() {
 		const array = [1,2,3,4,5];
 		
-		if (array.includes(8)) {
+		if (array.includes(2)) {
 			resolve('success');
 		} else {
 			reject('error');
 		}
 	}, 3000);
 });
+
 promise.catch(err => err);
 
 setInterval(function() {

@@ -29,3 +29,35 @@ Promise.all(promises).then(res=> console.log(res.reduce ((accum, sum)=>(accum+=s
 
 // ___________________________________________________________________________________________________
 
+
+
+
+// using async / await
+
+
+function DELAY() {
+    return new Promise(resolve => {
+        let delay = parseInt(Math.random()*10000 + 1)
+        setTimeout(() => resolve(delay), delay);
+    })
+};
+
+num = 0;
+const promises = [];
+while (num < 10) {
+    num ++;
+    promises.push(DELAY(num)) 
+};
+
+
+async function func() {
+   await Promise.all(promises).then(res=> console.log(res));
+   await Promise.race(promises).then(res=>console.log(res));
+   await Promise.all(promises).then(res=> console.log(res.reduce ((accum, sum)=>(accum+=sum),0)));    
+}
+
+func();
+
+
+// ___________________________________________________________________________________________________
+
