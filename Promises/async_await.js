@@ -94,3 +94,21 @@ func();
 
 
 // ________________________________________________________________________________
+
+
+// anonymous function
+
+
+function waiter() {
+    setTimeout (()=>{
+        console.log(11111);
+    },1000)
+};
+
+
+// waiter();                        //or
+// waiter().then().catch();         //or     
+
+(async()=>{                         //or
+    await waiter()
+})();
