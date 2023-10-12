@@ -18,7 +18,7 @@ function dif (num1, num2) {
 
 async function myFunc (){
 	try{
-		let res = await dif(10,4)
+		const res = await dif(10,4)
 		console.log(res);
 	} catch(err){
 		console.log(err);

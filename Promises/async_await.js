@@ -56,7 +56,7 @@ function getSmth(num) {
 
 
 async function func() {
-	let arr = [1, 2, 3, 4, 5];
+	const arr = [1, 2, 3, 4, 5];
 	let sum = 0;
 	
 	for (let elem of arr) {
@@ -94,3 +94,21 @@ func();
 
 
 // ________________________________________________________________________________
+
+
+// anonymous function
+
+
+function waiter() {
+    setTimeout (()=>{
+        console.log(11111);
+    },1000)
+};
+
+
+// waiter();                        //or
+// waiter().then().catch();         //or     
+
+(async()=>{                         //or
+    await waiter()
+})();
