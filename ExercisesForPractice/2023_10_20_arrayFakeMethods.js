@@ -1,4 +1,4 @@
-// Write  sort  with for loop (will take array as a parameter and return sorted array)
+// Sort
 
 const numbers1 = [3, 5, 4, 6, 2, 1];               //can't do it
 
@@ -25,7 +25,7 @@ console.log(sort(numbers1));
 
 
 
-// Write reduce function in for loop (foreach)
+// Reduce
 
 const numbers2 = [1, 2, 3, 4, 5]
 
@@ -43,7 +43,7 @@ console.log(reduce(numbers2))
 
 
 
-// Write filter function in for loop
+// Filter
 
 
 const numbers3 = [3, 5, 4, 6, 2, 1];
@@ -59,9 +59,7 @@ const numbers3 = [3, 5, 4, 6, 2, 1];
 //     return filterArray
 // }
 
-
 // or
-
 
 function filter(arr) {
     const filterArray = [];
@@ -81,7 +79,7 @@ console.log(filter(numbers3));
 // _____________________________________________________________________________________
 
 
-// Write split
+// Split
 
 const string = 'Never give up';
 
@@ -109,7 +107,7 @@ console.log(split(string, ' '))
 // ________________________________________________________________________________________
 
 
-// Write splice
+// Splice
 
 const array1 = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 
@@ -141,23 +139,24 @@ console.log(splice(array1, 3, 5, 400, 500));
 
 
 
-// Write toString
+// toString
 
 const mixedArray = [1, 2, 'a3', '2', 0, 'b'];
 
 function toString(arr) {
     let text = ''
     arr.forEach(e => {
-        text = text + String(e) + ','
+        text += e + ','   // we don't need "String(e)", "e"- is stringified automatically
     })
     return text
 }
 console.log(toString(mixedArray));
 
+
 // ______________________________________________________________________________________________
 
 
-// Write join (edited) 
+// Join
 
 const array = ['Never', 'give', 'up'];
 
@@ -175,4 +174,63 @@ function join(arr, method) {
 console.log(join(array, '_'));
 
 // _____________________________________________________________________
+
+
+// Find
+
+function find(arr, condition) {
+    const findedArr = [];
+    arr.forEach(el => {
+        if (condition(el) ) {
+            findedArr.push (el)
+        }
+       
+    });
+    return findedArr
+} 
+// const numbers = [1,2,3,4,5,6,7,8,9,10];
+// const findedNumbers = find(numbers, n => n > 5);
+// console.log(findedNumbers);
+
+
+const strings = ["NodeJS", "VueJS", "Python", "JavaScript"]
+const findedStrings = find(strings, s => s.includes("J" && "S"));
+console.log(findedStrings);
+
+// _______________________________________________________________________________
+
+
+
+// Reverse
+
+
+// function reverse(arr) {
+
+//     arr.forEach((e, index) => {
+
+//         arr.unshift(e)
+//         arr.splice(arr[index + 1], 1)
+//     })
+//     return arr
+// }
+
+// or 
+
+function reverseNarinei(arr) {
+    let temp = [];
+    for (let i = arr.length - 1; i >= 0; i--) {
+        temp.push(arr[i]);
+
+    } 
+    arr.length = 0;                       //  method REVERSE must
+    arr.push(...temp);                    //  mutate the original array
+    return arr;
+}
+
+
+const myArray = [1, 2, 3, 4, 5];
+// console.log(reverse(myArray));
+console.log(reverseNarinei(myArray));
+
+
 
