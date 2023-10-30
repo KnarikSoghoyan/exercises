@@ -1,24 +1,19 @@
 // Sort
 
-const numbers1 = [3, 5, 4, 6, 2, 1];               //can't do it
+function sort(arr) {
+    const sortedArray = [];
 
-function sort(array) {
-    
-    let sortedArray = []
-    let i = 1;
-    let minimum = array[0]
-
-    while (i < array.length) {
-        if (array[i] < minimum) {
-            minimum = array[i]
-            array.slice(i, i + 1)
-            sortedArray.push[minimum];
-        }
-        i++
+    while (arr.length > 0) {
+        const min = Math.min(...arr);
+        const index = arr.indexOf(min);
+        sortedArray.push(min);
+        arr.splice(index, 1);
     }
-    return sortedArray
-};
 
+    return sortedArray;
+}
+
+const numbers1 = [3, 5, 4, 6, 2, 1];
 console.log(sort(numbers1));
 
 // _________________________________________________________________________________________
@@ -181,13 +176,13 @@ console.log(join(array, '_'));
 function find(arr, condition) {
     const findedArr = [];
     arr.forEach(el => {
-        if (condition(el) ) {
-            findedArr.push (el)
+        if (condition(el)) {
+            findedArr.push(el)
         }
-       
+
     });
     return findedArr
-} 
+}
 // const numbers = [1,2,3,4,5,6,7,8,9,10];
 // const findedNumbers = find(numbers, n => n > 5);
 // console.log(findedNumbers);
@@ -221,7 +216,7 @@ function reverseNarinei(arr) {
     for (let i = arr.length - 1; i >= 0; i--) {
         temp.push(arr[i]);
 
-    } 
+    }
     arr.length = 0;                       //  method REVERSE must
     arr.push(...temp);                    //  mutate the original array
     return arr;
