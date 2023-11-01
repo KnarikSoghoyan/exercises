@@ -4,7 +4,7 @@ let integer = 58;
 
  function addDigits(num) {
     let res = String(num).split('')
-    let result = res.reduce ((accum, value) => { return accum + parseInt(value) })    //string????
+    let result = res.reduce ((accum, value) => { return accum + parseInt(value) }, 0) 
     return result
  }
 

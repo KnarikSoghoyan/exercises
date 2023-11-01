@@ -8,23 +8,11 @@ const {name, surname, age} = person1                        // Version 1
 const person2 = {name, surname, age}  
 
 
-/*
-let person2 = {};                                           // Version 2
-for (const key in person1) {
-    if (Object.hasOwnProperty.call(person1, key)) {
-        const element = person1[key];
-        person2[key] = element
-        person1[key] = element
-       }
-};
-*/
+// let person2 = {};                                           // Version 2
+// for (const key in person1) {
+//     person2[key] = person1[key]
+// };
 
-/*
-let person2 = {};                                           // Version 3
-for (const key in person1) {
-    person2[key] === person1[key]
-};
-*/
 
 person2.name = "Seda";
 // person2.surname = "Poghosyan";
