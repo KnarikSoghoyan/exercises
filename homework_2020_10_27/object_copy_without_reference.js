@@ -4,14 +4,16 @@ const person1 = {
     age: 23
 };
 
-const {name, surname, age} = person1                        // Version 1 
-const person2 = {name, surname, age}  
+// const {name, surname, age} = person1                        // Version 1 
+// const person2 = {name, surname, age}  
 
 
 // let person2 = {};                                           // Version 2
 // for (const key in person1) {
 //     person2[key] = person1[key]
 // };
+
+const person2 = {...person1}                                   // Version 3
 
 
 person2.name = "Seda";
