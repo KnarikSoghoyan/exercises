@@ -3,22 +3,22 @@
 // This operation applies to the object and any nested objects. Arrays are considered objects 
 // where the indices are keys. A value is considered falsy when Boolean(value) returns false.
 
-object1 = [null, 0, false, 1]
-object2 = { "a": null, "b": [false, 1], "c": "name" }
-object3 = [null, 0, 5, [0], [false, 16]]
+const object1 = [null, 0, false, 1]
+const object2 = { "a": null, "b": [false, 1], "c": "name" }
+const object3 = [null, 0, 5, [0], [false, 16]]
 
 function compact(obj) {
     const temp = Object.entries(obj)
 
     for (const [key, value] of temp) {
 
-        if (Boolean(value) === false) {
+        if (!Boolean(value)) {
             delete obj[key]
         };
 
-        if (Array.isArray(value) === true) {
+        if (Array.isArray(value)) {
             value.forEach((e, i) => {
-                if (Boolean(e) === false) {
+                if (!Boolean(e)) {
                     delete obj[key][i]
                 }
             })

@@ -7,11 +7,11 @@ const languages = {
 };
 
 function opposite() {
-    const temporary = []
+    const temporary = {}
     for (const [key, value] of Object.entries(languages)) {
-        temporary.push([value, key])
+        temporary[value] = key
     }
-    return temporary
+        return temporary
 };
 
 console.log(opposite(languages))
