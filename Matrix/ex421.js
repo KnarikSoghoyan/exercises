@@ -3,12 +3,15 @@
 function bubu(mat, num) {
 
     const arr = []
+    let count = 0
     for (let i = 0; i < mat.length; i++) {
         for (let j = 0; j < i; j++) {
-            arr.push(mat[i][j])
+            if (!(mat[i][j]%num)) {
+                count ++
+            }
         }
     }
-    return arr.filter(e => e % k === 0).length
+    return count
 };
 
 const matrix = [

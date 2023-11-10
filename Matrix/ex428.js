@@ -4,7 +4,7 @@ function bubu(mat) {
 
     const arr = []
     for (let i = 0; i < mat.length; i++) {
-        for (let j = mat[i].length - 1 - i; j >= 0; j--) {
+        for (let j = mat.length - 1 - i; j >= 0; j--) {
             arr.push(mat[i][j])
         }
     };

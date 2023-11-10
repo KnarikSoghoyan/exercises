@@ -8,7 +8,7 @@ function bubu(mat) {
             arr.push(mat[i][j])
         }
     };
-    const newArr = arr.filter(e => Number.isInteger(e / 5) === true)
+    const newArr = arr.filter(e => Number.isInteger(e / 5))
     // console.log(newArr);
     let res = newArr.reduce((accum, value) => { return accum + value }, 0)
     return res / newArr.length

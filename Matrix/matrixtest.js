@@ -3,30 +3,42 @@ function bubu(mat, num) {
     const arr = []
 
     for (let i = 0; i < mat.length - 1; i++) {                   // glxavor ankyunagcic verev kam nra vra
-        for (let j = mat[i].length - 1 - i; j >= 0; j--) {
+        for (let j = mat.length - 1 - i; j >= 0; j--) {
             arr.push(mat[i][j])
         }
     };
 
-    for (let i = 0; i < mat.length; i++) {                 //ojandak ankyunagcic nerqev kam nra vra
-        for (let j = mat[i].length-1; j >=0; j--) {
-            arr.push(mat[i][j])
-        }
-    }
-
     for (let i = 0; i < mat.length; i++) {             //ojandak ankyunagic
-        let j = mat[i].length - 1 - i
+        let j = mat.length - 1 - i
         arr.push(mat[i][j])
     }
 
-    for (let i = 0; i < mat.length - 1; i++) {                        // ojandak ankyunagcic verev gtnvox
-        for (let j = mat[i].length - 2 - i; j >= 0; j--) {
+    for (let i = 0; i < mat.length; i++) {                 //ojandak ankyunagcic nerqev kam nra vra
+        for (let j = mat.length-1; j >=0; j--) {
+            arr.push(mat[i][j])
+        }
+    }
+
+    for (let i = 0; i < mat.length; i++) {                       // ojandak ankyunagcic verev gtnvox  1     
+        for (let j = 0; j < mat.length-1-i; j++) {
             arr.push(mat[i][j])
         }
     };
 
-    for (let i = 0; i < mat.length; i++) {                         // ojandak ankyunagcic verev kam nra vra gtnvox
-        for (let j = mat[i].length - 1 - i; j >= 0; j--) {
+    for (let i = 0; i < mat.length - 1; i++) {                        // ojandak ankyunagcic verev gtnvox  2
+        for (let j = mat.length - 2 - i; j >= 0; j--) {
+            arr.push(mat[i][j])
+        }
+    };
+
+    for (let i = 0; i < mat.length; i++) {                       // ojandak ankyunagcic verev kam nra vra gtnvox  1      
+        for (let j = 0; j <= mat.length-1-i; j++) {
+            arr.push(mat[i][j])
+        }
+    };
+
+    for (let i = 0; i < mat.length; i++) {                         // ojandak ankyunagcic verev kam nra vra gtnvox  2
+        for (let j = mat.length - 1 - i; j >= 0; j--) {
             arr.push(mat[i][j])
         }
     };

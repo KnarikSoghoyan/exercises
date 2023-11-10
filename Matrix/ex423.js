@@ -9,7 +9,7 @@ function bubu(mat) {
         }
     };
     // console.log(arr);
-    const newArr = arr.filter(e => e % 2 === 0);
+    const newArr = arr.filter(e => e % 2 === 0);       // or  ( e => !(e % 2) )
     let res = newArr.reduce((acc, value) => {
         return acc + value ** 2
     }, 0)
