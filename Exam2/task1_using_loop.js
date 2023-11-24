@@ -1,7 +1,15 @@
 // Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
 
+
 function minMax(arr) {
-  return [Math.min(...arr), Math.max(...arr)]
+  const temp = []
+  let min = arr[0];
+  let max = arr[0];
+  arr.forEach(e => {
+    (e <= min) ? min = e : max = e
+  });
+  temp.push(min, max)
+  return temp
 }
 
 console.log(minMax([1, 2, 3, 4, 5]));   //  [ 1, 5 ]
