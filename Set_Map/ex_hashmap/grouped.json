@@ -1,0 +1,3768 @@
+{
+  "afar.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20226,
+      "Domain": "afar.com",
+      "Publisher": "Afar Media_display",
+      "AM": "Maayan Bar",
+      "PubImps": 848,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20226,
+      "Domain": "afar.com",
+      "Publisher": "Afar Media_display",
+      "AM": "Maayan Bar",
+      "PubImps": 586,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    }
+  ],
+  "bostonglobe.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 8172,
+      "Domain": "bostonglobe.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 160,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 8172,
+      "Domain": "bostonglobe.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 208,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 8172,
+      "Domain": "bostonglobe.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 141,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 8172,
+      "Domain": "bostonglobe.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 142,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 8172,
+      "Domain": "bostonglobe.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 299,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    }
+  ],
+  "cesarsway.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 277,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 122,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 146,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 99,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 64,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20487,
+      "Domain": "cesarsway.com",
+      "Publisher": "Cesarsway_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 73,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "elcolombiano.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 309,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 224,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 132,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 153,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 193,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 241,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 396,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 725,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 790,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027352,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 883,
+      "date": "2023-12-16 09:00:00",
+      "realDate": "2023-12-16 09:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 859,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 813,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 623,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 657,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 631,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 600,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 585,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 634,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 607,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 618,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 647,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 710,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 622,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20851,
+      "Domain": "elcolombiano.com",
+      "Publisher": "El Colombiano_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 486,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "eltiempo.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 816,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 503,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 389,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 373,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 383,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 10563,
+      "Domain": "eltiempo.com",
+      "Publisher": "El Tiempo Media_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 589,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "free-power-point-templates.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 9867,
+      "Domain": "free-power-point-templates.com",
+      "Publisher": "FPPT_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 164,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 9867,
+      "Domain": "free-power-point-templates.com",
+      "Publisher": "FPPT_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 302,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 9867,
+      "Domain": "free-power-point-templates.com",
+      "Publisher": "FPPT_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 283,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 9867,
+      "Domain": "free-power-point-templates.com",
+      "Publisher": "FPPT_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 195,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 9867,
+      "Domain": "free-power-point-templates.com",
+      "Publisher": "FPPT_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 139,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "iflscience.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 271,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 191,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 136,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 73,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 89,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 63,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 146,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 211,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 646,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 637,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 683,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 660,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 9939,
+      "Domain": "iflscience.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 727,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    }
+  ],
+  "inquirer.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 549,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 426,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 215,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 194,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 190,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 208,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 431,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20647,
+      "Domain": "inquirer.com",
+      "Publisher": "The Philadelphia Inquirer",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 624,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    }
+  ],
+  "lifehack.org": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 572,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 523,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 358,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 196,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 151,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 136,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 218,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 232,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 266,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 593,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 523,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 658,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 802,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 789,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 667,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 8447,
+      "Domain": "lifehack.org",
+      "Publisher": "Lifehack_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 657,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "ted.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 323,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 247,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 151,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 111,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 98,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 73,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 99,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 146,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 168,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027352,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 222,
+      "date": "2023-12-16 09:00:00",
+      "realDate": "2023-12-16 09:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 291,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 340,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 291,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 364,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 338,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 317,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 392,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 305,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 271,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 267,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 276,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 240,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20506,
+      "Domain": "ted.com",
+      "Publisher": "Ted",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 261,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "thediplomat.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 828,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 725,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 661,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 428,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 454,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 404,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 446,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 745,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 619,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 946,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 893,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 901,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 877,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 866,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 932,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 869,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 714,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 738,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 935,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 953,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 808,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 806,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20336,
+      "Domain": "thediplomat.com",
+      "Publisher": "Diplomat Media Inc_Display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 932,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "thefreedictionary.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 383,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 313,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 270,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 203,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 170,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 191,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 246,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 1,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 277,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 454,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 1,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 683,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 646,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 599,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 584,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 648,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 646,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 588,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 636,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 595,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 563,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 1,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 589,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 508,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 528,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 0,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20559,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "TheFreeDictionary_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 455,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20711,
+      "Domain": "thefreedictionary.com",
+      "Publisher": "PubVentures_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 1,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "thegentleclass.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 137,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    },
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 83,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 66,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 1,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 9,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 33,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 4,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 30,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 29,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    },
+    {
+      "DateStamp": 17027352,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 148,
+      "date": "2023-12-16 09:00:00",
+      "realDate": "2023-12-16 09:00:00"
+    },
+    {
+      "DateStamp": 17027388,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 242,
+      "date": "2023-12-16 10:00:00",
+      "realDate": "2023-12-16 10:00:00"
+    },
+    {
+      "DateStamp": 17027424,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 316,
+      "date": "2023-12-16 11:00:00",
+      "realDate": "2023-12-16 11:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 408,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 358,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 604,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 500,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 632,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 535,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 694,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    },
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20292,
+      "Domain": "thegentleclass.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 771,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    }
+  ],
+  "thetrainline.com": [
+    {
+      "DateStamp": 17027028,
+      "PublisherId": 20349,
+      "Domain": "thetrainline.com",
+      "Publisher": "Trainline_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 466,
+      "date": "2023-12-16 00:00:00",
+      "realDate": "2023-12-16 00:00:00"
+    }
+  ],
+  "dw.com": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 467,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 466,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 432,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 456,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 444,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20544,
+      "Domain": "dw.com",
+      "Publisher": "Deutsche Welle",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 550,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    }
+  ],
+  "finewoodworking.com": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 257,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 189,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 141,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 119,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 98,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 187,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 9939,
+      "Domain": "finewoodworking.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 369,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    }
+  ],
+  "lovetoknow.com": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 925,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 601,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 434,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 223,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 231,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 317,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 528,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20437,
+      "Domain": "lovetoknow.com",
+      "Publisher": "Vdx.tv",
+      "AM": "Mor Kalderon",
+      "PubImps": 635,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "macrotrends.net": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 688,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 474,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 280,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 259,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 177,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 315,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 349,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 9117,
+      "Domain": "macrotrends.net",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 451,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "metacritic.com": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 219,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 186,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 120,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 114,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 100,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 119,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 129,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20776,
+      "Domain": "metacritic.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 204,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "orangetractortalks.com": [
+    {
+      "DateStamp": 17027064,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 38,
+      "date": "2023-12-16 01:00:00",
+      "realDate": "2023-12-16 01:00:00"
+    },
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 31,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 62,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 17,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 57,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 129,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20292,
+      "Domain": "orangetractortalks.com",
+      "Publisher": "Newor Media_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 136,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    }
+  ],
+  "finviz.com": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 874,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 573,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 455,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 515,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 705,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 9117,
+      "Domain": "finviz.com",
+      "Publisher": "InvestingChannel_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 838,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    }
+  ],
+  "geebo.com": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 9525,
+      "Domain": "geebo.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 744,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    }
+  ],
+  "genshin.gg": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20682,
+      "Domain": "genshin.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 779,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    }
+  ],
+  "mail.com": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 299,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 117,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 16,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 5,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 0,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 1,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 10627,
+      "Domain": "mail.com",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 0,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "skysports.com": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 20503,
+      "Domain": "skysports.com",
+      "Publisher": "Sky",
+      "AM": "Franco L'Eveque",
+      "PubImps": 490,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20503,
+      "Domain": "skysports.com",
+      "Publisher": "Sky",
+      "AM": "Franco L'Eveque",
+      "PubImps": 406,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20503,
+      "Domain": "skysports.com",
+      "Publisher": "Sky",
+      "AM": "Franco L'Eveque",
+      "PubImps": 339,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20503,
+      "Domain": "skysports.com",
+      "Publisher": "Sky",
+      "AM": "Franco L'Eveque",
+      "PubImps": 489,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20503,
+      "Domain": "skysports.com",
+      "Publisher": "Sky",
+      "AM": "Franco L'Eveque",
+      "PubImps": 977,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    }
+  ],
+  "tappedout.net": [
+    {
+      "DateStamp": 17027100,
+      "PublisherId": 10598,
+      "Domain": "tappedout.net",
+      "Publisher": "adopsgal.com_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 409,
+      "date": "2023-12-16 02:00:00",
+      "realDate": "2023-12-16 02:00:00"
+    },
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 10598,
+      "Domain": "tappedout.net",
+      "Publisher": "adopsgal.com_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 209,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    }
+  ],
+  "alcasthq.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20682,
+      "Domain": "alcasthq.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 722,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "alcasthq.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 595,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "alcasthq.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 594,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20682,
+      "Domain": "alcasthq.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 640,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20682,
+      "Domain": "alcasthq.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 684,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    }
+  ],
+  "anabelmagazine.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20831,
+      "Domain": "anabelmagazine.com",
+      "Publisher": "Impuls Studio",
+      "AM": "Yuval Bar",
+      "PubImps": 683,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    }
+  ],
+  "astro.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20709,
+      "Domain": "astro.com",
+      "Publisher": "CommonMedia_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 309,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    }
+  ],
+  "boersennews.de": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20819,
+      "Domain": "boersennews.de",
+      "Publisher": "BoersenNEWS",
+      "AM": "Yuval Bar",
+      "PubImps": 859,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20819,
+      "Domain": "boersennews.de",
+      "Publisher": "BoersenNEWS",
+      "AM": "Yuval Bar",
+      "PubImps": 922,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    }
+  ],
+  "boston.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 8172,
+      "Domain": "boston.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 231,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 8172,
+      "Domain": "boston.com",
+      "Publisher": "Boston Globe Media_Display",
+      "AM": "Maayan Bar",
+      "PubImps": 335,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    }
+  ],
+  "cozi.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 9939,
+      "Domain": "cozi.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 893,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9939,
+      "Domain": "cozi.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 591,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9939,
+      "Domain": "cozi.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 565,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "eso-hub.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20682,
+      "Domain": "eso-hub.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 497,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "eso-hub.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 846,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "eso-hub.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 582,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "pcgamesn.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 694,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 419,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 217,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 222,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 426,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20682,
+      "Domain": "pcgamesn.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 558,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "psnprofiles.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 378,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 192,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 188,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 104,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 270,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 580,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 828,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 915,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 715,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 800,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 931,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20682,
+      "Domain": "psnprofiles.com",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 475,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    }
+  ],
+  "punchng.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 733,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 912,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 887,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 810,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 900,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 753,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 792,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 905,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20552,
+      "Domain": "punchng.com",
+      "Publisher": "The Punch Newspaper",
+      "AM": "Mor Kalderon",
+      "PubImps": 893,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    }
+  ],
+  "rep-am.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 21,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 27,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027460,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 312,
+      "date": "2023-12-16 12:00:00",
+      "realDate": "2023-12-16 12:00:00"
+    },
+    {
+      "DateStamp": 17027496,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 210,
+      "date": "2023-12-16 13:00:00",
+      "realDate": "2023-12-16 13:00:00"
+    },
+    {
+      "DateStamp": 17027532,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 177,
+      "date": "2023-12-16 14:00:00",
+      "realDate": "2023-12-16 14:00:00"
+    },
+    {
+      "DateStamp": 17027568,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 257,
+      "date": "2023-12-16 15:00:00",
+      "realDate": "2023-12-16 15:00:00"
+    },
+    {
+      "DateStamp": 17027604,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 390,
+      "date": "2023-12-16 16:00:00",
+      "realDate": "2023-12-16 16:00:00"
+    },
+    {
+      "DateStamp": 17027640,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 293,
+      "date": "2023-12-16 17:00:00",
+      "realDate": "2023-12-16 17:00:00"
+    },
+    {
+      "DateStamp": 17027676,
+      "PublisherId": 20901,
+      "Domain": "rep-am.com",
+      "Publisher": "Republican-American_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 282,
+      "date": "2023-12-16 18:00:00",
+      "realDate": "2023-12-16 18:00:00"
+    }
+  ],
+  "reptilesmagazine.com": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20279,
+      "Domain": "reptilesmagazine.com",
+      "Publisher": "OTTAdvisors",
+      "AM": "Mor Kalderon",
+      "PubImps": 544,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20279,
+      "Domain": "reptilesmagazine.com",
+      "Publisher": "OTTAdvisors",
+      "AM": "Mor Kalderon",
+      "PubImps": 640,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    }
+  ],
+  "serebii.net": [
+    {
+      "DateStamp": 17027136,
+      "PublisherId": 20682,
+      "Domain": "serebii.net",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 0,
+      "date": "2023-12-16 03:00:00",
+      "realDate": "2023-12-16 03:00:00"
+    },
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "serebii.net",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 1,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "serebii.net",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 0,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "ganzworld.com": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9201,
+      "Domain": "ganzworld.com",
+      "Publisher": "Ganz_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 239,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9201,
+      "Domain": "ganzworld.com",
+      "Publisher": "Ganz_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 900,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 9201,
+      "Domain": "ganzworld.com",
+      "Publisher": "Ganz_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 799,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    }
+  ],
+  "science.org": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9939,
+      "Domain": "science.org",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 744,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9939,
+      "Domain": "science.org",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 740,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "scientificamerican.com": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 9939,
+      "Domain": "scientificamerican.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 458,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 9939,
+      "Domain": "scientificamerican.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 304,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "tftactics.gg": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20682,
+      "Domain": "tftactics.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 815,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20682,
+      "Domain": "tftactics.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 413,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20682,
+      "Domain": "tftactics.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 343,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20682,
+      "Domain": "tftactics.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 441,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20682,
+      "Domain": "tftactics.gg",
+      "Publisher": "Publisher Collective",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 625,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "theadvocate.com": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20120,
+      "Domain": "theadvocate.com",
+      "Publisher": "The Advocate",
+      "AM": "Mor Kalderon",
+      "PubImps": 132,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20120,
+      "Domain": "theadvocate.com",
+      "Publisher": "The Advocate",
+      "AM": "Mor Kalderon",
+      "PubImps": 122,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20120,
+      "Domain": "theadvocate.com",
+      "Publisher": "The Advocate",
+      "AM": "Mor Kalderon",
+      "PubImps": 149,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20120,
+      "Domain": "theadvocate.com",
+      "Publisher": "The Advocate",
+      "AM": "Mor Kalderon",
+      "PubImps": 291,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20120,
+      "Domain": "theadvocate.com",
+      "Publisher": "The Advocate",
+      "AM": "Mor Kalderon",
+      "PubImps": 619,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "thecrimson.com": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20613,
+      "Domain": "thecrimson.com",
+      "Publisher": "The Harvard Crimson_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 171,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20613,
+      "Domain": "thecrimson.com",
+      "Publisher": "The Harvard Crimson_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 123,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20613,
+      "Domain": "thecrimson.com",
+      "Publisher": "The Harvard Crimson_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 136,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    },
+    {
+      "DateStamp": 17027280,
+      "PublisherId": 20613,
+      "Domain": "thecrimson.com",
+      "Publisher": "The Harvard Crimson_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 156,
+      "date": "2023-12-16 07:00:00",
+      "realDate": "2023-12-16 07:00:00"
+    },
+    {
+      "DateStamp": 17027316,
+      "PublisherId": 20613,
+      "Domain": "thecrimson.com",
+      "Publisher": "The Harvard Crimson_Display",
+      "AM": "Franco L'Eveque",
+      "PubImps": 246,
+      "date": "2023-12-16 08:00:00",
+      "realDate": "2023-12-16 08:00:00"
+    }
+  ],
+  "tvguide.com": [
+    {
+      "DateStamp": 17027172,
+      "PublisherId": 20776,
+      "Domain": "tvguide.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 739,
+      "date": "2023-12-16 04:00:00",
+      "realDate": "2023-12-16 04:00:00"
+    },
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20776,
+      "Domain": "tvguide.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 709,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    },
+    {
+      "DateStamp": 17027244,
+      "PublisherId": 20776,
+      "Domain": "tvguide.com",
+      "Publisher": "Fandom",
+      "AM": "Mor Kalderon",
+      "PubImps": 799,
+      "date": "2023-12-16 06:00:00",
+      "realDate": "2023-12-16 06:00:00"
+    }
+  ],
+  "bestplaces.net": [
+    {
+      "DateStamp": 17027208,
+      "PublisherId": 20227,
+      "Domain": "bestplaces.net",
+      "Publisher": "Best Places_display",
+      "AM": "Mor Kalderon",
+      "PubImps": 651,
+      "date": "2023-12-16 05:00:00",
+      "realDate": "2023-12-16 05:00:00"
+    }
+  ],
+  "gmx.net": [
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 10627,
+      "Domain": "gmx.net",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 946,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 10627,
+      "Domain": "gmx.net",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 448,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 10627,
+      "Domain": "gmx.net",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 404,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 10627,
+      "Domain": "gmx.net",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 414,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 10627,
+      "Domain": "gmx.net",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 568,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "greenbuildingadvisor.com": [
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 9939,
+      "Domain": "greenbuildingadvisor.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 359,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 9939,
+      "Domain": "greenbuildingadvisor.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 386,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 9939,
+      "Domain": "greenbuildingadvisor.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 362,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 9939,
+      "Domain": "greenbuildingadvisor.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 431,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 9939,
+      "Domain": "greenbuildingadvisor.com",
+      "Publisher": "Yourbow_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 391,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "panlasangpinoy.com": [
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 9525,
+      "Domain": "panlasangpinoy.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 804,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 9525,
+      "Domain": "panlasangpinoy.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 661,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 9525,
+      "Domain": "panlasangpinoy.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 691,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 9525,
+      "Domain": "panlasangpinoy.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 498,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 9525,
+      "Domain": "panlasangpinoy.com",
+      "Publisher": "MonetizeMore_Display",
+      "AM": "Yuval Bar",
+      "PubImps": 464,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "patient.info": [
+    {
+      "DateStamp": 17027712,
+      "PublisherId": 20144,
+      "Domain": "patient.info",
+      "Publisher": "Patient_display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 441,
+      "date": "2023-12-16 19:00:00",
+      "realDate": "2023-12-16 19:00:00"
+    },
+    {
+      "DateStamp": 17027748,
+      "PublisherId": 20144,
+      "Domain": "patient.info",
+      "Publisher": "Patient_display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 657,
+      "date": "2023-12-16 20:00:00",
+      "realDate": "2023-12-16 20:00:00"
+    },
+    {
+      "DateStamp": 17027784,
+      "PublisherId": 20144,
+      "Domain": "patient.info",
+      "Publisher": "Patient_display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 607,
+      "date": "2023-12-16 21:00:00",
+      "realDate": "2023-12-16 21:00:00"
+    },
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20144,
+      "Domain": "patient.info",
+      "Publisher": "Patient_display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 388,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20144,
+      "Domain": "patient.info",
+      "Publisher": "Patient_display",
+      "AM": "Lucrecia Grenno",
+      "PubImps": 361,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "wdwinfo.com": [
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 20617,
+      "Domain": "wdwinfo.com",
+      "Publisher": "WDWINFO_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 945,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 20617,
+      "Domain": "wdwinfo.com",
+      "Publisher": "WDWINFO_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 723,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ],
+  "web.de": [
+    {
+      "DateStamp": 17027820,
+      "PublisherId": 10627,
+      "Domain": "web.de",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 393,
+      "date": "2023-12-16 22:00:00",
+      "realDate": "2023-12-16 22:00:00"
+    },
+    {
+      "DateStamp": 17027856,
+      "PublisherId": 10627,
+      "Domain": "web.de",
+      "Publisher": "United Internet Media_Display",
+      "AM": "Mor Kalderon",
+      "PubImps": 609,
+      "date": "2023-12-16 23:00:00",
+      "realDate": "2023-12-16 23:00:00"
+    }
+  ]
+}
